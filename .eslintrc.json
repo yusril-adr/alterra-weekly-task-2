@@ -23,6 +23,7 @@
         "import/no-extraneous-dependencies": "off",
         "linebreak-style": "off",
         "react/function-component-definition": "off",
+        "react/no-array-index-key": "off",
         "react/react-in-jsx-scope": "off"
     }
 }

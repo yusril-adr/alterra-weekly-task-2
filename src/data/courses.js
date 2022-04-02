@@ -29,7 +29,7 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/git-network-graph.png',
+      '/images/git-network-graph.png',
     ],
   },
   {
@@ -62,9 +62,9 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/ui-ux-samawa.png',
-      './images/ui-ux-bluehouse.jpg',
-      './images/ui-ux-moundaki.png',
+      '/images/ui-ux-samawa.png',
+      '/images/ui-ux-bluehouse.jpg',
+      '/images/ui-ux-moundaki.png',
     ],
   },
   {
@@ -97,7 +97,7 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/figma-preview.png',
+      '/images/figma-preview.png',
     ],
   },
   {
@@ -130,9 +130,9 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/html-index.png',
-      './images/html-form.png',
-      './images/html-welcome.png',
+      '/images/html-index.png',
+      '/images/html-form.png',
+      '/images/html-welcome.png',
     ],
   },
   {
@@ -169,8 +169,8 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/css-file1.png',
-      './images/css-file2.png',
+      '/images/css-file1.png',
+      '/images/css-file2.png',
     ],
   },
   {
@@ -203,7 +203,7 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/bootstrap-preview.png',
+      '/images/bootstrap-preview.png',
     ],
   },
   {
@@ -260,7 +260,7 @@ const courses = [
       },
     ],
     screenshots: [
-      './images/javascript-preview.png',
+      '/images/javascript-preview.png',
     ],
   },
   {

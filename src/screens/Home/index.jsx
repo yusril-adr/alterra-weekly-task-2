@@ -20,7 +20,7 @@ const Home = () => (
 
     <Grid container spacing={4}>
       {courses.map((course) => (
-        <Grid item xs={12} md={6} lg={3}>
+        <Grid key={course.id} item xs={12} sm={6} md={4} lg={3}>
           <Card>
             <CardMedia
               component="img"

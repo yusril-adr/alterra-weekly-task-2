@@ -15,6 +15,9 @@ a {
   color: unset;
   text-decoration: none;
 }
+a:hover {
+  color: #ED6C02;
+}
 
 img {
   width: 100%;
